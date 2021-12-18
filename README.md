@@ -45,3 +45,15 @@ _hint: There are 9 of them._
 9. **Looking at this packet's 'data', what might be the RCE command sent to the vulnerable server?**
 
 10. **What is the order of establishing and finishing connections with the services and ports on each machine?**
+
+11. **What type of service is running on each of the following ports**:
+  -  172.16.141.132:8080
+  
+  -  172.16.141.131:1389
+  
+  -  172.16.141.131:8180
+
+
+### Summary
+Now that you have answered the above questions, summarize the steps of the exploit takes as it runs.
+ex. First, a http request is sent to the server containing...
